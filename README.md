@@ -12,22 +12,11 @@ This repository contains the official implementation of **Free-VTON**, a novel a
 
 Code coming soon
 
-## Features
-
-- diffusion-based virtual try-on
-- Enhanced quality generation
-- Acceleration
-
-
 ## Requirements
 
 - Python 3.8+
 - PyTorch
 - Diffusers
-
-## Installation
-
-Installation instructions coming soon.
 
 ## Usage
 
