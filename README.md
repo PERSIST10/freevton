@@ -22,9 +22,17 @@ Code coming soon
 
 Usage examples coming soon.
 
+## Contact
+
+If you have any questions, please contact via email at pyh2024234126@tju.edu.cn
+
 ## Acknowledgements
 
+Acknowledgements information coming soon.
+
 ## Citation
+
+Citation information coming soon.
 
 ## License
 
